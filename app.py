@@ -1,6 +1,6 @@
 #Streamlit Dashboard for Cryptocurrency Forecasting Project
 # ---------------------------------------------------------------
-# Author: Ritu Saxena
+# Author: Aparna Asokan
 # Project: Bitcoin Price Forecasting (ARIMA, Prophet, LSTM)
 
 import streamlit as st
