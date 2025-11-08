@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 # APP SETTINGS
 st.set_page_config(page_title="Bitcoin Price Forecasting", layout="wide")
 st.title("Bitcoin Price Analysis & Forecasting Dashboard")
-st.markdown("By *Ritu Saxena*")
+st.markdown("By *Aparna Asokan*")
 st.markdown("This dashboard visualizes Bitcoin price trends, volatility, and compares forecasting models (ARIMA, Prophet, LSTM).")
 
 # ---------------------------------------------------------------
